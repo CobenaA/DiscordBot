@@ -31,7 +31,7 @@ def flipCoin(playerA, playerB):
     return playerB
 
 # Discord Token
-TOKEN = "NjE1Njg2MzY4MjM1ODgwNjE4.XrJUuQ.y9Ji2vL2nbj1pdqXIeButX8rn8w"
+TOKEN = ADD TOKEN HERE
 bot = commands.Bot(command_prefix='!')
 
 # Bot Login
